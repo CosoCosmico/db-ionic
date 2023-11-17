@@ -1,0 +1,15 @@
+{
+  "imagenes": [
+    {
+      "nombre": "anya",
+      "ruta": "assets/gif/anya.gif"
+    }
+  ],
+  "imagenes2": [
+    {
+      "id":1,
+      "nombre": "yourname",
+      "ruta": "https://i.pinimg.com/originals/28/8c/ab/288cabb664f2962d64ecb499827fd81a.gif"
+    }
+  ]
+}
