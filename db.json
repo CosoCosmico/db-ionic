@@ -1,11 +1,5 @@
 {
-  "imagenes": [
-    {
-      "nombre": "anya",
-      "ruta": "assets/gif/anya.gif"
-    }
-  ],
-  "imagenes2": [
+  "imagenIntro": [
     {
       "id":1,
       "nombre": "yourname",
